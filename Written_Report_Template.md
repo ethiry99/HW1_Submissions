@@ -1,7 +1,8 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+**Items Provided**
+A table of data from Kickstarter campaigns 
 ### Purpose
 
 ## Analysis and Challenges
