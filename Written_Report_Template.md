@@ -29,7 +29,7 @@ The first conclusion in reviewing the analysis of outcomes based on launch date 
 The second conclusion is the least advantageuos month in the data is December.  The lines nearly touch and are only separted by 2 campaigns. 
 
 
-### Analysis of Outcomes Based on Goals
+### Analysis of [Outcomes Based on Goals](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Outcome_vs_Goals.png)
 
 It can be concluded from the outcomes based on goals analysis that smaller goals have a significant advantage over large goals.  Goals under $5000 had a 73% success rate vs a 27% failure rate.  Smaller goals are a key for success! 
 
