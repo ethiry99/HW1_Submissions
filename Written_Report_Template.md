@@ -14,7 +14,7 @@ The 1st visualization was created using a pivot table to count the number of Suc
 
 ### Visualization #1 challenge
 
-A challenge encountered in the 1st visualization was that the campaign start and end dates were provided in the [Unix date format](https://github.com/ethiry99/HW1_Submissions/blob/main/Excel%20Images/Unix%20Date%20%26%20Time%20example.png) which is the number of seconds since Jan 1, 1970.  In order to convert the listed seconds needed to be divided by 60 to get the number of minutes, the minutes divided by 60 again to get the number of hours, the hours divided by 24 to get the number of days.  The total number of days (on the order of 16,000) were then added to the orgin date of 1/1/1970.  We know had a orgin date in excel format that we could use in a pivot table.
+A challenge encountered in the 1st visualization was that the campaign start and end dates were provided in the [Unix date format](https://github.com/ethiry99/HW1_Submissions/blob/main/Excel%20Images/Unix%20Date%20%26%20Time%20example.png) which is the number of seconds since Jan 1, 1970.  In order to [convert](https://github.com/ethiry99/HW1_Submissions/blob/main/Excel%20Images/Unix%20Conversion%20to%20Excel%20Date.png) the listed seconds needed to be divided by 60 to get the number of minutes, the minutes divided by 60 again to get the number of hours, the hours divided by 24 to get the number of days.  The total number of days (on the order of 16,000) were then added to the orgin date of 1/1/1970.  We know had a orgin date in excel format that we could use in a pivot table.
 
 
 
