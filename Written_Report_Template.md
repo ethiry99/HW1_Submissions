@@ -24,30 +24,34 @@ I attempted to "grab" the value ranges by using LEFT() and RIGHT() functions to 
 
 ### Analysis of [Outcomes Based on Launch Date](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
+![chart](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+
 The first conclusion in reviewing the analysis of outcomes based on launch date is that the largest difference between succesfull and failed campaigns occurs in campaigns that begin in May.  Successful campaigns maintain an noticible advantage into August.
 
 The second conclusion is the least advantageuos month in the data is December.  The lines nearly touch and are only separted by 2 campaigns. 
 
 
-### Analysis of [Outcomes Based on Goals](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Outcome_vs_Goals.png)
+### Analysis of [Outcomes Based on Goals](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Outcome_vs_Goals.png) 
+
+![chart](https://github.com/ethiry99/HW1_Submissions/blob/main/Resources/Outcome_vs_Goals.png)
 
 It can be concluded from the outcomes based on goals analysis that smaller goals have a significant advantage over large goals.  Goals under $5000 had a 73% success rate vs a 27% failure rate.  Smaller goals are a key for success! 
 
 
-### Challenges and Difficulties Encountered
-
-## Final Comments
-
+### Final Comments
 * What are some limitations of this dataset?
+
 1. The data used to perform the analysis is a bit dated. It runs from May 2009 to March of 2017.
     1. Did campaign funding success change between 2017 and today?
     2. What effect did Covid 19 have on funding? 
     3. Has the growing familiarity of Kickstarter to the public affected outcomes?
+    
 2. Not all from the same country
     1. Are campaigns in Europe comparible to North American campaigns?
     2. Does variances in exchange rates allow for commensurable camparisons?
   
 * What are some other possible tables and/or graphs that we could create?
 
-  1. Success by year- Perhaps success over time would be a usefull data point.  Is funding for the arts in a boom or bust era right now?
-  2. Success by similar subcategories- Is there much difference is success rates between Plays and Musicals? 
+1. Success by year- Perhaps success over time would be a usefull data point.  Is funding for the arts in a boom or bust era right now?
+
+2. Success by similar subcategories- Is there much difference is success rates between Plays and Musicals? 
