@@ -24,6 +24,7 @@ I attempted to "grab" the value ranges by using LEFT() and RIGHT() functions to 
 
 ### Analysis of Outcomes Based on Launch Date
 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
