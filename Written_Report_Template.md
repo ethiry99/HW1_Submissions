@@ -38,6 +38,16 @@ It can be concluded from the outcomes based on goals analysis that smaller goals
 
 ## Final Comments
 
-- What are some limitations of this dataset?
+* What are some limitations of this dataset?
+1. The data used to perform the analysis is a bit dated. It runs from May 2009 to March of 2017.
+    1. Did campaign funding success change between 2017 and today?
+    2. What effect did Covid 19 have on funding? 
+    3. Has the growing familiarity of Kickstarter to the public affected outcomes?
+2. Not all from the same country
+    1. Are campaigns in Europe comparible to North American campaigns?
+    2. Does variances in exchange rates allow for commensurable camparisons?
+  
+* What are some other possible tables and/or graphs that we could create?
 
-- What are some other possible tables and/or graphs that we could create?
+  1. Success by year- Perhaps success over time would be a usefull data point.  Is funding for the arts in a boom or bust era right now?
+  2. Success by similar subcategories- Is there much difference is success rates between Plays and Musicals? 
